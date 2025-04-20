@@ -54,10 +54,10 @@ This application uses a Convolutional Neural Network (CNN) trained on facial exp
 ## 📦 Dataset
 
 **FER-2013**: Facial Expression Recognition dataset  
-🔗 [Kaggle Link](https://www.kaggle.com/datasets/msambare/fer2013)
+🔗 [Kaggle Link](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
 
 - 48x48 grayscale images
-- 35,887 labeled facial images
+- 35,900 labeled facial images
 - 7 emotion classes
 
 ---

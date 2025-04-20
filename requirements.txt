@@ -8,3 +8,7 @@ tqdm
 opencv-contrib-python
 
 the missing files are emotiondetector.h5 and images datasets 
+
+python version used 3.10.17
+
+output run command - python3.10 -u "file/path"; 

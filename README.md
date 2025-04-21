@@ -66,8 +66,8 @@ This application uses a Convolutional Neural Network (CNN) trained on facial exp
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/real-time-emotion-detector.git
-cd real-time-emotion-detector
+git clone https://github.com/SusmoyNath/Realtime-emotion-detector.git
+cd Realtime-emotion-detector
 
 # (Optional) Create a virtual environment
 python3 -m venv env
